@@ -28,3 +28,18 @@ This project was built to:
 g++ -std=c++17 main.cpp pattern.cpp -o mini_regex
 ./mini_regex "a*(b|c)" "aaab"
 # Output: Match found
+```
+## Resources
+
+### Lexer & Parser
+- [Crafting Interpreters (Chapters on Scanning & Parsing)](https://craftinginterpreters.com/)
+- [Compiler Design – Lecture Notes](https://www.cs.princeton.edu/courses/archive/spr06/cos326/notes.html)
+
+### Abstract Syntax Tree (AST)
+- [AST Basics - Wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
+- [Programming Language Pragmatics – Chapter on ASTs](https://www.pearson.com/en-us/subject-catalog/p/programming-language-pragmatics/P200000007828/9780123745149)
+
+### Automata Theory
+- [Introduction to Automata Theory, Languages, and Computation](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/0321455363)
+- [Automata Theory - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-of-finite-automata/)
+
